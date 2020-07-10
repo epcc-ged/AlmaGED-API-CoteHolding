@@ -9,3 +9,5 @@ items-xml-modified/*
 *.log
 *.txt
 *.bak
+*.csv
+*.csv~
